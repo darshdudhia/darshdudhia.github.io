@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This website is a personal academic space where I document my work and my achievements in **mathematics, science, and research**. It brings together my writing, projects, and achievements in one place, with an emphasis on clarity, rigor, and independent thinking.
+This website is a personal academic space where I document my work and my achievements in **mathematics, science, and research**. It brings together my writing, projects, and achievements in one place.
 
-The site is intentionally structured to be simple and content-focused, allowing ideas and work to take precedence over presentation.
 
 ---
 
 ## Purpose of This Website
-======
 
 This website serves as:
 - A **record of my academic journey**
@@ -25,7 +23,6 @@ This website serves as:
 ---
 
 ## Content Overview
-======
 
 The site is organized into several sections, accessible through the top navigation bar.
 
@@ -44,7 +41,6 @@ A curated list of academic milestones such as competitions, publications, certif
 ---
 
 ## Approach and Philosophy
-======
 
 I believe that:
 - Accuracy matters more than speed  
