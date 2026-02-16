@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Darsh Dudhia"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Darsh Dudhia"
+description              : &description "Darsh Dudhia's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://darshdudhia.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ repository               : "darshdudhia/darshdudhia.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Darsh Shaan Dudhia"
+  name             : "Darsh Dudhia"
   pronouns         : 
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am Darsh Dudhia, a student with strong interests in mathematics, physics, and machine learning. I actively work on problem-solving, research-oriented projects, and competitive STEM initiatives, with a focus on applying theoretical concepts to real-world problems. My interests include data science, and deep learning, particularly in medical imaging and classification tasks."
   location         : "Ahmedabad, Gujarat, India"
   employer         : 
   uri              : # URL
@@ -72,7 +72,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # URL
+  telegram         : "https://web.telegram.org/@DarshDudhia"
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Preprints & Journal Articles'    
   conferences:
     title: 'Conference Papers'
 
