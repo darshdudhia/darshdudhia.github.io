@@ -10,7 +10,6 @@ A chronological list of selected academic achievements and examinations.
 ---
 
 ## Achievements
-======
 
 - **[Standard Examination in High School Science 2026 - National Top 1% and awarded certificate of academic excellence as Zonal Topper and gold medal](https://iaptexam.examtime.co.in/SEHSS/)**  
   *December 2025*
