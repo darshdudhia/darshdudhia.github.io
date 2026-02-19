@@ -3,6 +3,9 @@ layout: archive
 title: "Achievements"
 permalink: /achievements/
 author_profile: true
+redirect_from:
+  - /Achievements/
+  - /portfolio/
 ---
 
 A chronological list of selected academic achievements and examinations.
