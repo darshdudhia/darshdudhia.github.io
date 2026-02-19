@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Darsh Dudhia - Achievements, Publications, Journey and Blog"
+title: "Darsh Dudhia - Achievements, Publications, Journey"
 author_profile: true
 redirect_from:
   - /about/
