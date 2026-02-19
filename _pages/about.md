@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Darsh Dudhia | Mathematics, Science, and Research"
+title: "Darsh Dudhia - Achievements, Publications, Journey and Blog"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-This website is a personal academic space where I document my work and my achievements in **mathematics, science, and research**. It brings together my writing, projects, and achievements in one place.
+This website is a personal academic space where I document my work and my achievements in **mathematics and science**. It brings together my writing, projects, and achievements in one place.
 
 
 ---
@@ -29,7 +29,7 @@ The site is organized into several sections, accessible through the top navigati
 ### Blog
 The blog is a space for longer-form writing and ongoing thought. I write about:
 - New and upcoming ideas and research methodology in the scientific world
-- Unique and Fascinating Science and Mathematics Problems I have seen during my journey
+- Unique and fascinating science and mathematics problems I find
 
 ### Research & Projects
 This section includes:
