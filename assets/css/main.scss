@@ -48,27 +48,22 @@ body {
   z-index: 0;
 }
 
-.masthead,
-.sidebar,
-.page__content,
-.page__footer {
-  position: relative;
-  z-index: 1;
-}
-/* Fix Vanta canvas layering */
-
 canvas {
   position: fixed !important;
-  top: 0;
-  left: 0;
   z-index: -1 !important;
 }
 
-.page {
-  margin-top: 0 !important;
+.masthead {
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 .masthead,
 .masthead__inner-wrap {
   top: 0 !important;
+}
+
+.page {
+  padding-top: 4.5rem;
 }
