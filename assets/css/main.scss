@@ -50,11 +50,9 @@ body {
 
 canvas {
   position: absolute !important;
-  top: 0;
-  left: 0;
+  inset: 0;
   z-index: -1 !important;
 }
-
 .masthead {
   position: fixed;
   top: 0;
