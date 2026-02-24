@@ -5,6 +5,7 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+vanta: true
 ---
 
 This website is a personal academic space where I document my work and my achievements in **mathematics and science**. It brings together my writing, projects, and achievements in one place.
